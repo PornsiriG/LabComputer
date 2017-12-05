@@ -1,0 +1,2 @@
+# LabComputer
+แลปคอม C-free
